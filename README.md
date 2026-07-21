@@ -6,27 +6,35 @@
 
 I am a finance and accounting professional with 8+ years of experience in **financial reporting, fund accounting, FP&A, reconciliations, month-end close, quarter-end close, and financial statement preparation under US GAAP and IFRS**.
 
-I am currently building a career at the intersection of:
+My work focuses on applying **analytics, automation, and AI-enabled process improvement** to financial reporting and finance operations.
 
-**Finance Transformation | Financial Reporting Automation | Power Platform Automation | AI-enabled Finance Operations**
+I build practical finance automation projects that help improve:
 
-My focus is to help finance teams reduce manual effort, improve reporting accuracy, strengthen review workflows, and apply automation and AI responsibly in financial reporting processes.
-
----
-
-## Current Focus
-
-- Building finance automation and AI-enabled reporting projects
-- Developing Power BI dashboards for fund financial reporting and variance analysis
-- Automating trial balance to financial statement mapping using Python and pandas
-- Building Power Automate workflows for review tracking and recurring finance processes
-- Creating UiPath bots for reporting file validation and control checks
-- Designing Copilot Studio agents for finance process queries and review support
-- Learning advanced AI agents, RAG concepts, process mining, and finance transformation use cases
+- Reporting accuracy
+- Review visibility
+- Manual effort reduction
+- Variance analysis
+- Exception management
+- Process standardization
+- Control and audit readiness
 
 ---
 
-## Core Domain
+## Professional Focus
+
+- Financial Reporting Automation
+- Fund Accounting Analytics
+- Record-to-Report Process Improvement
+- Trial Balance to Financial Statement Mapping
+- Power BI Dashboards for Finance
+- Power Automate Workflows for Reporting Processes
+- UiPath Bots for File Validation and Control Checks
+- Copilot Studio Agents for Finance Process Support
+- AI-assisted Variance Analysis and Review Workflows
+
+---
+
+## Domain Expertise
 
 Financial Reporting | US GAAP | IFRS | Fund Accounting | Record-to-Report | R2R | Month-End Close | Quarter-End Close | Financial Statement Review | Reconciliation | Variance Analysis | Flux Analysis | FP&A | Audit Support | Internal Controls
 
@@ -38,17 +46,17 @@ Power BI | Power Query | SQL | Python | pandas | Advanced Excel | DAX | Power Au
 
 ---
 
-## Portfolio Theme
+## Portfolio Approach
 
-My GitHub portfolio is designed around practical finance use cases:
+My GitHub portfolio is built around real-world finance process themes using dummy or synthetic data:
 
-- Financial reporting analytics
-- Trial balance to financial statement mapping
+- Financial reporting dashboards
+- Trial balance mapping automation
 - Current vs prior-period variance analysis
 - Review comment tracking
 - Reporting file validation
-- AI-assisted process query support
-- Finance automation templates and reusable resources
+- AI-assisted finance process support
+- Reusable finance automation templates
 
 All projects use **dummy or synthetic data only**. No confidential employer, client, fund, or internal process data is included.
 
@@ -63,7 +71,7 @@ All projects use **dummy or synthetic data only**. No confidential employer, cli
 </td>
 <td width="35%" valign="top">
 
-## Tech Stack
+## Core Stack
 
 ### Finance & Reporting
 - US GAAP
@@ -71,9 +79,9 @@ All projects use **dummy or synthetic data only**. No confidential employer, cli
 - Financial Reporting
 - Fund Accounting
 - R2R
+- Reconciliation
 - Variance Analysis
 - Flux Analysis
-- Reconciliation
 
 ### Analytics
 - Power BI
@@ -107,21 +115,29 @@ All projects use **dummy or synthetic data only**. No confidential employer, cli
 
 ---
 
-# Featured Finance Automation Portfolio
+# Selected Finance Automation Projects
 
-| Project | Tools | Business Use Case |
-|---|---|---|
-| [Fund Financial Statement Analytics Dashboard](https://github.com/SourajBanik/01-fund-fs-analytics-dashboard) | Power BI, Power Query, DAX | Analyze fund financials, current vs prior variances, expenses, review status, and reporting exceptions |
-| [TB-to-FS Mapping Automation](https://github.com/SourajBanik/02-tb-to-fs-mapping-automation) | Python, pandas, Excel | Automate trial balance mapping to financial statement line items and generate variance reports |
-| [FS Review Tracker Automation](https://github.com/SourajBanik/03-fs-review-tracker-power-automate) | Power Automate, Excel/SharePoint | Track review comments, send reminders, trigger approvals, and generate weekly summaries |
-| [Reporting File Validation Bot](https://github.com/SourajBanik/04-reporting-file-validation-bot) | UiPath, Excel | Validate reporting files for naming, required tabs, key fields, control totals, and exceptions |
-| [Fund Reporting AI Assistant](https://github.com/SourajBanik/05-fund-reporting-ai-assistant) | Copilot Studio, Power Automate | Answer process queries, summarize review comments, and assist with variance explanation drafts |
-| [Finance Automation Resources](https://github.com/SourajBanik/finance-automation-resources) | SQL, DAX, Python, Prompts | Reusable finance automation templates, SQL queries, DAX measures, Python scripts, and AI prompts |
+| Project | Business Problem | Solution | Tools |
+|---|---|---|---|
+| [Fund Financial Statement Analytics Dashboard](https://github.com/SourajBanik/01-fund-fs-analytics-dashboard) | Finance teams need visibility into fund financials, variances, expenses, review comments, and exceptions | Power BI dashboard for reporting analysis and review monitoring | Power BI, Power Query, DAX |
+| [TB-to-FS Mapping Automation](https://github.com/SourajBanik/02-tb-to-fs-mapping-automation) | Manual trial balance mapping creates effort, errors, and review delays | Python automation to map GL accounts to FS line items and generate variance reports | Python, pandas, Excel |
+| [FS Review Tracker Automation](https://github.com/SourajBanik/03-fs-review-tracker-power-automate) | Review comments and follow-ups can become manual and difficult to track | Power Automate workflow for comment tracking, reminders, approvals, and weekly summaries | Power Automate, Excel/SharePoint |
+| [Reporting File Validation Bot](https://github.com/SourajBanik/04-reporting-file-validation-bot) | Reporting files need consistent validation before review | UiPath bot to check naming, required tabs, key fields, control totals, and exceptions | UiPath, Excel |
+| [Fund Reporting AI Assistant](https://github.com/SourajBanik/05-fund-reporting-ai-assistant) | Finance teams need quick access to process guidance and review support | Copilot Studio assistant for process queries, comment summaries, and variance explanation drafts | Copilot Studio, Power Automate |
+| [Finance Automation Resources](https://github.com/SourajBanik/finance-automation-resources) | Finance automation work benefits from reusable templates and scripts | Collection of SQL, DAX, Python, prompt, and workflow templates | SQL, DAX, Python, Prompts |
 
 ---
 
-## Career Direction
+## Operating Principles
 
-I am focused on roles in:
+- Use finance-domain knowledge before applying automation.
+- Keep financial reporting outputs human-reviewed.
+- Design workflows with control, auditability, and exception handling.
+- Use AI for process support, draft generation, summarization, and analysis assistance.
+- Avoid uploading confidential employer, client, fund, or internal process data.
 
-**Finance Transformation | Financial Reporting Automation | Power Platform Automation | AI Automation | R2R Transformation | Finance Process Improvement | AI-enabled Finance Operations**
+---
+
+## Portfolio Theme
+
+This portfolio demonstrates how finance professionals can combine domain expertise with analytics, automation, and AI to improve financial reporting processes.
