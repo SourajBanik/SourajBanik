@@ -66,7 +66,7 @@ All projects use **dummy or synthetic data only**. No confidential employer, cli
 
 - LinkedIn: https://www.linkedin.com/in/sourajbanik
 - GitHub: https://github.com/SourajBanik
-- Email: add-your-professional-email-here
+- Email: souraj44@gmail.com
 
 </td>
 <td width="35%" valign="top">
@@ -126,18 +126,3 @@ All projects use **dummy or synthetic data only**. No confidential employer, cli
 | [Fund Reporting AI Assistant](https://github.com/SourajBanik/05-fund-reporting-ai-assistant) | Finance teams need quick access to process guidance and review support | Copilot Studio assistant for process queries, comment summaries, and variance explanation drafts | Copilot Studio, Power Automate |
 | [Finance Automation Resources](https://github.com/SourajBanik/finance-automation-resources) | Finance automation work benefits from reusable templates and scripts | Collection of SQL, DAX, Python, prompt, and workflow templates | SQL, DAX, Python, Prompts |
 
----
-
-## Operating Principles
-
-- Use finance-domain knowledge before applying automation.
-- Keep financial reporting outputs human-reviewed.
-- Design workflows with control, auditability, and exception handling.
-- Use AI for process support, draft generation, summarization, and analysis assistance.
-- Avoid uploading confidential employer, client, fund, or internal process data.
-
----
-
-## Portfolio Theme
-
-This portfolio demonstrates how finance professionals can combine domain expertise with analytics, automation, and AI to improve financial reporting processes.
